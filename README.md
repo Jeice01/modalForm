@@ -1,4 +1,4 @@
-```markdown
+
 # Modal Formulário com Validação em JavaScript
 
 Link para o projeto: https://jeice01.github.io/modalForm/
@@ -52,4 +52,4 @@ Este projeto demonstra a criação de um formulário modal com validação em Ja
 ## Observações
 
 Este projeto é um exemplo básico de formulário modal com validação em JavaScript. Ele pode ser usado como ponto de partida para projetos mais complexos.
-```
+
